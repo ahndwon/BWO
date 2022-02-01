@@ -1,10 +1,10 @@
 import 'dart:math';
 
+import 'package:BWO/entity/enemys/enemy.dart';
 import 'package:flutter/material.dart';
 
 import '../../game_controller.dart';
 import '../player/player.dart';
-import 'enemy.dart';
 import 'ia_controller.dart';
 
 /// This class controlls enemy locally (offline mode).
